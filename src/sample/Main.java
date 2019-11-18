@@ -41,7 +41,7 @@ public class Main extends Application {
     private static final int HEIGHT = 120;
     private static final int NUM_PIXELS = WIDTH * HEIGHT;
     private static final int BUFFER_SIZE = NUM_PIXELS * 2;
-    private static final int PORT = 55555;
+    private static final int PORT = 55555; //55555
 
     @Override
     public void start(Stage primaryStage) throws Exception{
